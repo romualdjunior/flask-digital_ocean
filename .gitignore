@@ -1,2 +1,9 @@
 .pytest_cache
 *.pyc
+.vscode
+__pycache__
+static/video/
+
+#Deploy files
+Aptfile
+Procfile
