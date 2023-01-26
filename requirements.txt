@@ -1,2 +1,6 @@
 Flask
 gunicorn==20.0.4
+Werkzeug==1.0.1
+opencv-python>=4.2.0
+numpy==1.18.5
+Jinja2==2.11.2

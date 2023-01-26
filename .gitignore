@@ -3,6 +3,8 @@
 .vscode
 __pycache__
 static/video/
+dnn_config_files/yolov3.weights
+
 
 #Deploy files
 Aptfile
